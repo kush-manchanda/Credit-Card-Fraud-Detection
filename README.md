@@ -11,20 +11,35 @@ The complete implementation was carried out in Python using Google Colab, with l
 Key Skills & Technologies
 
 • Python
+
 • Machine Learning
+
 • Supervised Learning
+
 • Binary Classification
+
 • Logistic Regression
+
 • Data Collection
+
 • Data Cleaning
+
 • Data Preprocessing
+
 • Model Training
+
 • Model Evaluation
+
 • NumPy
+
 • Pandas
+
 • Matplotlib
+
 • Scikit-learn
+
 • Google Colab
+
 • Git & GitHub
 
 Through this project, I strengthened my understanding of supervised machine learning, binary classification techniques, data preprocessing, model evaluation, and the practical application of machine learning to detect financial fraud.
